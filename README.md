@@ -5,7 +5,7 @@ Weather API used for this project is https://openweathermap.org/api.
 
 ## Getting Started
 
-Clone this repository
+Clone this repository:
 
 ```
 git clone https://github.com/nenadfilipovic/esp8266-micropython-weather-station
@@ -51,7 +51,7 @@ Script outputs current weather data or 5 day forecast for selected city.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
